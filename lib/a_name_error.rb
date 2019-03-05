@@ -1,3 +1,3 @@
-puts "hello world".class
+"hello world"
 
 hello_world
